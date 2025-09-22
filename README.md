@@ -1,115 +1,120 @@
-# FECAP - Fundação de Comércio Álvares Penteado
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+
+<h1 align="center">FECAP - Fundação de Comércio Álvares Penteado</h1>
 
 <p align="center">
-<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
+  <a href="https://www.fecap.br/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado">
+  </a>
 </p>
 
-# Cannoli
+<h2>📊 Nome do Projeto</h2>
+<p><b>Cannoli</b> – Sistema de Apoio Analítico para Restaurantes Parceiros</p>
 
+<hr>
 
-## 👨‍💻 Integrantes
+<h2>👥 Equipe</h2>
 
-- [Caua William Barbieri Brandão](https://www.linkedin.com/in/caua-william-967295247/)
-- [Gabriel Orlandi Portes](https://www.linkedin.com/in/gabriel-orlandi-4b5ab22ab)
-- [Karoline Lemos Avelar](https://www.linkedin.com/in/karoline-lemos-540461296)
-- [Matheus Santoro Carriço Veiga](https://www.linkedin.com/in/matheus-santoro-34b7a7186)
+<h3>👨‍💻 Integrantes:</h3>
+<ul>
+  <li>Adriano Xu Ming Hui</li>
+  <li>Caua William Barbieri Brandão</li>
+  <li>Gabriel Orlandi Portes</li>
+  <li>Karoline Lemos Avelar</li>
+  <li>Matheus Santoro Carriço Veiga</li>
+</ul>
 
-## Professores Orientadores:<a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>,<a href="https://www.linkedin.com/in/francisco-escobar/">Eduardo Savino</a>,<a href="https://www.linkedin.com/in/vheltai/">Lucy Mary</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Edson Barbeiro</a> e <a href="https://www.linkedin.com/in/jefferson-o-silva/">Ronaldo Araujo</a>.
+<h3>🧑‍🏫 Professores Orientadores:</h3>
+<ul>
+ <li>Aimar Martins Lopes</li>
+  <li>Eduardo Savino</li>
+  <li>Lucy Mari</li>
+  <li>Ronaldo Pinto</li>
+  <li>Edson Barbeiro</li>
+</ul>
 
-## Descrição
+<hr>
+
+<h2>📝 Descrição do Projeto</h2>
+<p>
+A <b>Cannoli</b> é um sistema analítico desenvolvido para apoiar a gestão de restaurantes parceiros da empresa <b>Cannoli</b>.
+</p>
+<p>
+A solução tem como objetivo:
+</p>
+<ul>
+  <li>Otimizar a <b>gestão e análise de dados</b> dos restaurantes parceiros.</li>
+  <li>Gerar <b>relatórios dinâmicos</b> sobre desempenho e engajamento de clientes.</li>
+  <li>Fornecer <b>dashboards interativos</b> para decisões estratégicas.</li>
+  <li>Aplicar <b>IA e Machine Learning</b> para insights de mercado.</li>
+</ul>
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Cannoli Intelligence">
 </p>
 
+<hr>
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+<h2>🎯 Objetivos e Metas</h2>
+<ul>
+  <li>Desenvolver relatórios detalhados de desempenho dos restaurantes.</li>
+  <li>Mensurar visitas, compras e interações de clientes.</li>
+  <li>Garantir transparência e acessibilidade dos dados.</li>
+  <li>Entregar uma solução segura, intuitiva e escalável.</li>
+  <li>Concluir o projeto dentro do prazo (01/08/2025 – 10/11/2025).</li>
+</ul>
 
-## 🛠 Estrutura de pastas
+<hr>
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+<h2>📂 Estrutura de Pastas</h2>
 
-A pasta raiz contem dois arquivos que devem ser alterados:
+<pre>
+📁 Raiz  
+├── 📁 documentos  
+│   ├── 📁 Entrega 1  
+│   └── 📁 Entrega 2  
+│
+├── 📁 imagens  
+│   └──  
+│
+├── 📁 src  
+│   ├── 📁 Backend  
+│   └── 📁 Frontend  
+│
+└── 📄 readme.md
+</pre>
 
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
+<hr>
 
-Há também 4 pastas que seguem da seguinte forma:
+<h2>💻 Configuração para Desenvolvimento</h2>
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+<h3>🛠 Instalação</h3>
+<ul>
+  <li>Clone o repositório.</li>
+  <li>Instale as dependências necessárias.</li>
+  <li>Configure o banco SQLite.</li>
+  <li>Execute o backend e o frontend conforme instruções do projeto.</li>
+</ul>
 
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
+<hr>
 
-<b>imagens</b>: Imagens do sistema
+<h2>📋 Licença</h2>
+<p>
+Este projeto está licenciado sob <b>CC BY 4.0</b>.<br>
 
-<b>src</b>: Pasta que contém o código fonte.
+</p>
 
-## 🛠 Instalação
+<hr>
 
-<b>Android:</b>
+<h2>🎓 Referências</h2>
+<ol>
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+</ol>
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
-
-## 💻 Configuração para Desenvolvimento
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-Para abrir este projeto você necessita das seguintes ferramentas:
-
--<a href="https://godotengine.org/download">GODOT</a>
-
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
-
-## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto.
-
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
+</body>
+</html>
