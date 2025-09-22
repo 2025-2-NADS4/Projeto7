@@ -14,7 +14,7 @@
 - [Karoline Lemos Avelar](https://www.linkedin.com/in/karoline-lemos-540461296)
 - [Matheus Santoro Carriço Veiga](https://www.linkedin.com/in/matheus-santoro-34b7a7186)
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores:<a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>,<a href="https://www.linkedin.com/in/francisco-escobar/">Eduardo Savino</a>,<a href="https://www.linkedin.com/in/vheltai/">Lucy Mary</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Edson Barbeiro</a> e <a href="https://www.linkedin.com/in/jefferson-o-silva/">Ronaldo Araujo</a>.
 
 ## Descrição
 
