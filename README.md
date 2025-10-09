@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<h2>📊 SmartCannoli</h2>
-<p><b>Cannoli</b> – Sistema de Apoio Analítico para Restaurantes Parceiros</p>
+<h2>📊 Nome do projeto</h2>
+<p><b>SmartCannoli</b> – Sistema de Apoio Analítico para Restaurantes Parceiros</p>
 
 <hr>
 
