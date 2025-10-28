@@ -7,14 +7,12 @@
 
 <h1 align="center">FECAP - Fundação de Comércio Álvares Penteado</h1>
 
+
 <p align="center">
-  <a href="https://www.fecap.br/">
-<img width="660" height="245" alt="Captura de tela 2025-10-28 164125" src="https://github.com/user-attachments/assets/71c55ffd-2090-49b0-9e23-fd8572902e36" />
-  </a>
+<a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-<h2>📊 Nome do projeto</h2>
-<p><b>SmartCannoli</b> – Sistema de Apoio Analítico para Restaurantes Parceiros</p>
+<h2>📊<b>SmartCannoli</b> – Sistema de Apoio Analítico para Restaurantes Parceiros</p></h2>
 
 <hr>
 
@@ -55,7 +53,7 @@ A solução tem como objetivo:
 </ul>
 
 <p align="center">
-  <img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Cannoli Intelligence">
+<img width="660" height="245" alt="Captura de tela 2025-10-28 164125" src="https://github.com/user-attachments/assets/87e94f5f-dbca-445f-98bb-be67f57afa78" />
 </p>
 
 <hr>
